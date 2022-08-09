@@ -5,7 +5,7 @@ Jhon Alexander Lara Barrera
 jhonalexlara10@hotmail.com
 El despliegue y la base de datos se encuentran en Heroku
 
-Se utilizo para desarrollar esta prueba spring-Boot,base de datos postgres y despliegue de la app en heroku, jva 8
+Se utilizo para desarrollar esta prueba spring-Boot,base de datos postgres y despliegue de la app en heroku, java 8, JUnit
 
 Para correr el proyecto--->
 
